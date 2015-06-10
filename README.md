@@ -1,0 +1,3 @@
+opentsdb-seed
+=============
+# tsdb-seeds
